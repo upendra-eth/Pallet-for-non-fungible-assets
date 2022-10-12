@@ -4,7 +4,7 @@
 edition = '2018'
 name = 'pallet-nft'
 version = '4.0.0'
-authors = ['Shivam Yadav <shivam.yadav@antiersolutions.com>']
+authors = ['upendra singh <uvsingh2336@gmail.com>']
 license = 'Unlicense'
 description = 'A unique asset (NFT) interface and a Substrate FRAME implementation optimized for commodity assets.'
 keywords = ['substrate', 'frame', 'nft', 'blockchain', 'asset']
